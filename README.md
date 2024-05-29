@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ------------------------------
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sjeong35)](https://velog.io/@sjeong35) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sjeong35)](https://github.com/eungyeole/velog-readme-stats)
