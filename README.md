@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ------------------------------
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
