@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<h3> Recent Velog Post </h3>
+<h4> Recent Velog Post </h4>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sjeong35)](https://velog.io/@sjeong35) 
 
