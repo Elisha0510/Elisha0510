@@ -40,6 +40,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
 </h6>
 
+<h6>Tools : 
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=%2361DAFB"/>
+</h6>
+
 </div>
 
 <!--
