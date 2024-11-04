@@ -75,9 +75,9 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@sjeong35">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:melida@gmail.com">
+  <a href="mailto:melida0510@gmail.com">
     <img
-      src="https://img.shields.io/badge/melida@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/melida0510@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
