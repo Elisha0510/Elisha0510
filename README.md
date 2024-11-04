@@ -40,6 +40,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
 </h6>
 
+<h6>OS : 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+</h6>
+
+<h6>Etc : 
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+</h6>
+
 <h6>Tools : 
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
