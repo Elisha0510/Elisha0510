@@ -16,34 +16,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <br>
 <!--내용 부분-->
-<h3 >✨ Tech Stack ✨</h3>
-<div 
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+<div>
+<h4>✨ My Tech Stack ...</h4>
+<h6>Data Engineer : 
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+</h6>
+  
+<h6>Frontend : 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+</h6>
+
+<h6>Backend : 
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
+</h6>
+
 </div>
+
 <!--
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>-->
-
-<br>
-
-<div >
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3>📚 Studying 📚</h3>
+<h3>📚 I'm Studying ...</h3>
 <div>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <div >
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp 
 </div>
 
 <br>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/melida0510@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
+-->
 <br>
 
 <h3> Recent Velog Post </h3>
